@@ -29,3 +29,7 @@
   - ex. In the style of a 2010s Drama TV Show
   - ex. In the style of a 1950s sci-fi movie
 - If replicating a style pre-1980s, it can help to drop the 'cinematic still' tag at the beginning of your prompt.
+
+`/prompt a cinematic shot of a man in new york city shot on a Super 8 camera --seed 1234567890`
+
+`/prompt a cinematic shot of a man in new york city, 20mm --seed 1234567890` (Cell phone style)
