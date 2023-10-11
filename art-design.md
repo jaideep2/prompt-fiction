@@ -1,5 +1,13 @@
 # Advanced Midjourney prompts
 
+## Reference Image Weight Code
+
+--iw .5
+
+Pick a number between 0 and 5, 1 is default.
+
+The reference image will be prioritized based on the weight you give it.
+
 ## Aspect Ratio
 
 --ar 16:9
