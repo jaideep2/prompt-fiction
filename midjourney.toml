@@ -1,0 +1,41 @@
+# https://github.com/toml-lang/toml/wiki
+
+title = "Midjourney prompts"
+
+# /prompt cinematic still of a woman in a sci-fi world, pink hair, surrounded by robots, neon lights, nighttime, raining --ar 16:9
+
+# /settings keep remix on
+
+# with seed, click on the ✉️ emoji, seed number will be sent to your inbox
+# /prompt cinematic still of a woman in a sci-fi world --seed 12343567890 
+
+# style controller
+# --s 50 (Less style = more control) / 625 (default) / 1000 (More style = more creativity)  [200-300 is ideal for cinematic]
+
+# remove elements
+# cinematic still of a man in a western movie --seed 1234567890 --no hat horse
+
+# quality 0.1-5 (impact compute power) 3 is enough
+# --q 3
+
+# repeat multiple times. Will repeat a prompt up to 40 times.
+# --r 5
+
+# weighting
+# a cinematic still of birthday party:: chocolate cake ::2 pink party hats:: dinosaurs::.5
+
+# prefer option set [key]JJ [value]in the style of JJ Abrams, shot on Arriflex, cinematic color grading, light film grain
+# a cinematic still of a desert scifi world --JJ
+
+# see all set options
+# /prefer option list
+
+# cinematic still, set design (who the person is, what are they doing[foreground], where are they [background]), time of day, weather patterns, cinematography (medium, over the shoulder etc), director style
+# good: a cinematic still of a woman at a cafe, wearing a brown sweater, blonde hair, drinking coffee, paris cafe background 8k --seed 1234567890
+# better: a cinematic still of a blonde woman at a parisian cafe wearing a brown sweater, drinking coffee, 8k --seed 1234567890
+# best: a cinematic still of a blonde woman at a parisian cafe wearing a brown sweater at night, drinking coffee, 8k, ultra wide shot of the cafe --seed 1234567890
+# best2: a cinematic still of a blonde woman at a parisian cafe wearing a brown sweater at night, drinking coffee, 8k, medium shot --seed 1234567890
+# best3: a cinematic still of a blonde woman at a parisian cafe wearing a brown sweater at night, drinking coffee, 8k, close up of face --seed 1234567890
+# best4: an asymmetrical cinematic still of a blonde woman at a parisian cafe wearing a brown sweater at night, drinking coffee, 8k, ultra wide shot of the cafe --seed 1234567890
+# best5: an asymmetrical cinematic still of a blonde woman having a conversation at a parisian cafe wearing a brown sweater at night, drinking coffee, 8k, over-the-shoulder --seed 1234567890
+# best6: a cinematic still of a blonde woman having a conversation at a parisian cafe wearing a brown sweater at night in the style of David Fincher, drinking coffee, 8k, over-the-shoulder --seed 1234567890
