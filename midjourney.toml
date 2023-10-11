@@ -39,3 +39,7 @@ title = "Midjourney prompts"
 # best4: an asymmetrical cinematic still of a blonde woman at a parisian cafe wearing a brown sweater at night, drinking coffee, 8k, ultra wide shot of the cafe --seed 1234567890
 # best5: an asymmetrical cinematic still of a blonde woman having a conversation at a parisian cafe wearing a brown sweater at night, drinking coffee, 8k, over-the-shoulder --seed 1234567890
 # best6: a cinematic still of a blonde woman having a conversation at a parisian cafe wearing a brown sweater at night in the style of David Fincher, drinking coffee, 8k, over-the-shoulder --seed 1234567890
+
+# Camera styles
+# a cinematic shot of a man in new york city shot on a Super 8 camera --seed 1234567890
+# a cinematic shot of a man in new york city, 20mm --seed 1234567890 #Cell phone
