@@ -44,6 +44,10 @@ List out multiple things by simply placing a space between the words.
 
 `/prompt a cinematic still of a man in a western movie --seed 1234567890 --no hat horse`
 
+-neg
+
+`-neg morphing, erratic fluctuation in motion, noisy, bad quality, distorted, poorly drawn, blurry, grainy, low resolution, oversaturated, lack of detail, inconsistent lighting`
+
 ## Seed
 
 --seed 828028590
